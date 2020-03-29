@@ -65,49 +65,49 @@ The stream of our system is:
 
 ### Epipolar Rectification
 <div style="text-align:center"><img src="IMG/3-bi3dmodel.png" width="600" ></div>
-<br><p align="center">Binocular Stereo Vision Model</p>
+<p align="center">Binocular Stereo Vision Model</p>
 
 <div style="text-align:center"><img src="IMG/4-epirecmodel.png" width="600" ></div>
-<br><p align="center">Epipolar Rectification Standard Geometric Model</p>
+<p align="center">Epipolar Rectification Standard Geometric Model</p>
 
 <div style="text-align:center"><img src="IMG/5-epirecphysl.png" width="600" ></div>
-<br><p align="center">Epipolar Rectification Physical model</p>
+<p align="center">Epipolar Rectification Physical model</p>
 
 ### 2+1 Phase Shift Implementation
 <div style="text-align:center"><img src="IMG/6-2p1phaseshift.png" width="600" ></div>
-<br><p align="center">(2+1) Phase Shift Implementation</p>
+<p align="center">(2+1) Phase Shift Implementation</p>
 
 <div style="text-align:center"><img src="IMG/7-2p1func.png" width="600" ></div>
-<br><p align="center">(2+1) Phase Shift Model</p>
+<p align="center">(2+1) Phase Shift Model</p>
 
 ### Digital Speckle Projection
 <div style="text-align:center"><img src="IMG/8-digispeproj.png" width="600" ></div>
-<br><p align="center">Digital Speckle Projection</p>
+<p align="center">Digital Speckle Projection</p>
 
 <div style="text-align:center"><img src="IMG/9-NCC.png" width="600" ></div>
-<br><p align="center">NCC, which is the calculation function to judge corresponding points</p>
+<p align="center">NCC, which is the calculation function to judge corresponding points</p>
 
 ### Triangle Principle Implementation
 <div style="text-align:center"><img src="IMG/10-triangleprinciple.png" width="600" ></div>
-<br><p align="center">The Triangle Principle and reconstruction output display</p>
+<p align="center">The Triangle Principle and reconstruction output display</p>
 
 
 ## System Performance:
 
 <div style="text-align:center"><img src="IMG/11-scanner.png" width="600" ></div>
-<br><p align="center">Our Cute Handheld 3d scanner!!</p>
+<p align="center">Our Cute Handheld 3d scanner!!</p>
 
 <div style="text-align:center"><img src="IMG/video.gif" width="600" ></div>
-<br><p align="center">A video of our scanner</p>
+<p align="center">A video of our scanner</p>
 
 <div style="text-align:center"><img src="IMG/12-parameters.png" width="600" ></div>
-<br><p align="center">Our scanner’s camera parameters</p>
+<p align="center">Our scanner’s camera parameters</p>
 
 <div style="text-align:center"><img src="IMG/13-performance1.png" width="600" ></div>
 <div style="text-align:center"><img src="IMG/14-performance2.png" width="600" ></div>
-<br><p align="center">The performance of our scanner</p>
+<p align="center">The performance of our scanner</p>
 
-<br>Our project has won 2nd Prize in Fengru Cup Competition. You can check out our full report and presentation [here](google drive)
+<br>Our project has won 2nd Prize in Fengru Cup Competition. You can check out our full report and presentation [here](https://github.com/xiaoma1002/Handheld3DScanner/blob/master/presentation%20ppt%20%26%20report.zip)
 
 <br>copyright
 <br>xiaoma1002
