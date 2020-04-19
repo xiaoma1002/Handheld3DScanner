@@ -1,4 +1,4 @@
-# Handheld3DScanner
+# Hand-held 3D Scanner
 ### A structured-light-based Stereo Vision System
 
 This repo is used as a record of developing a Handheld3DScanner at 27th Fengru Cup, a Tech Competition at Beihang University in Beijing, China in 2017. 
